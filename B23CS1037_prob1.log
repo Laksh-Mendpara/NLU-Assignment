@@ -1,0 +1,137 @@
+RUN 1:
+chatbot: What is your full name?
+You: Laksh Mendpara
+chatbot: Nice to meet you, Laksh Mendpara! Your surname is Mendpara.
+chatbot: When is your birthday?
+You: 12 12 2005
+chatbot: So your birthday is December 12, 2005.
+chatbot: You are 20 years old!
+chatbot: How are you feeling today?
+You: I am feeling great today
+chatbot: Great to hear that you're happy!
+chatbot: bye!
+
+RUN 2:
+chatbot: Hi there! I'm reggy chatbot
+chatbot: What is your full name?
+You: Laksh Mendpara
+chatbot: Nice to meet you, Laksh Mendpara! Your surname is Mendpara.
+chatbot: When is your birthday?
+You: 12-12-05
+chatbot: So your birthday is December 12, 2005.
+chatbot: You are 20 years old!
+chatbot: How are you feeling today?
+You: I am tird today
+chatbot: You should get some rest as you are tired.
+chatbot: bye!
+
+RUN 3:
+chatbot: Hi there! I'm reggy chatbot
+chatbot: What is your full name?
+You: Laksh Mendpara
+chatbot: Nice to meet you, Laksh Mendpara! Your surname is Mendpara.
+chatbot: When is your birthday?
+You: 12/12/05
+chatbot: So your birthday is December 12, 2005.
+chatbot: You are 20 years old!
+chatbot: How are you feeling today?
+You: super excited about this project
+chatbot: Your excitement is contagious.
+chatbot: bye!
+
+RUN 4:
+chatbot: Hi there! I'm reggy chatbot
+chatbot: What is your full name?
+You: Laksh Mendpara
+chatbot: Nice to meet you, Laksh Mendpara! Your surname is Mendpara.
+chatbot: When is your birthday?
+You: 12 December 2005
+chatbot: So your birthday is December 12, 2005.
+chatbot: You are 20 years old!
+chatbot: How are you feeling today?
+You: feeling wonderful
+chatbot: Great to hear that you're happy!
+chatbot: bye!
+
+RUN 5:
+chatbot: Hi there! I'm reggy chatbot
+chatbot: What is your full name?
+You: Laksh Mendpara
+chatbot: Nice to meet you, Laksh Mendpara! Your surname is Mendpara.
+chatbot: When is your birthday?
+You: 12 Dec 2005
+chatbot: So your birthday is December 12, 2005.
+chatbot: You are 20 years old!
+chatbot: How are you feeling today?
+You: feeling a bit sead today
+chatbot: Sorry to hear that you're feeling sad.
+chatbot: bye!
+
+RUN 6:
+chatbot: Hi there! I'm reggy chatbot
+chatbot: What is your full name?
+You: Aarav Kumar Singh
+chatbot: Nice to meet you, Aarav Kumar Singh! Your surname is Singh.
+chatbot: When is your birthday?
+You: 25 5 1998
+chatbot: So your birthday is May 25, 1998.
+chatbot: You are 27 years old!
+chatbot: How are you feeling today?
+You: feeling angry about something
+chatbot: You look angry, calm down.
+chatbot: bye!
+
+RUN 7:
+chatbot: Hi there! I'm reggy chatbot
+chatbot: What is your full name?
+You: Laksh Mendpara
+chatbot: Nice to meet you, Laksh Mendpara! Your surname is Mendpara.
+chatbot: When is your birthday?
+You: born in December
+chatbot: I could not understand your birthdate.
+chatbot: How are you feeling today?
+You: good
+chatbot: Great to hear that you're happy!
+chatbot: bye!
+
+RUN 8:
+chatbot: Hi there! I'm reggy chatbot
+chatbot: What is your full name?
+You: Laksh Mendpara
+chatbot: Nice to meet you, Laksh Mendpara! Your surname is Mendpara.
+chatbot: When is your birthday?
+You: 12-12-2005
+chatbot: So your birthday is December 12, 2005.
+chatbot: You are 20 years old!
+chatbot: How are you feeling today?
+You: experiencing mixed emotions
+chatbot: I am not sure how you are feeling.
+chatbot: bye!
+
+RUN 9:
+chatbot: Hi there! I'm reggy chatbot
+chatbot: What is your full name?
+You: Laksh
+chatbot: Nice to meet you, Laksh! Your surname is Laksh.
+chatbot: When is your birthday?
+You: 12 December 2005
+chatbot: So your birthday is December 12, 2005.
+chatbot: You are 20 years old!
+chatbot: How are you feeling today?
+You: neutral today
+chatbot: You seem to be feeling neutral.
+chatbot: bye!
+
+RUN 10:
+chatbot: Hi there! I'm reggy chatbot
+chatbot: What is your full name?
+You: Laksh Mendpara
+chatbot: Nice to meet you, Laksh Mendpara! Your surname is Mendpara.
+chatbot: When is your birthday?
+You: 12 Jan 2005
+chatbot: So your birthday is January 12, 2005.
+chatbot: You are 20 years old!
+chatbot: How are you feeling today?
+You: excellent mood today
+chatbot: Great to hear that you're happy!
+chatbot: bye!
