@@ -126,7 +126,7 @@ def extract_tokens(vocab):
     return sorted(tokens)
 
 
-if __name__ == "__main__":
+def main():
     # Check if the user provided the right number of arguments
     if len(sys.argv) < 3:
         print("Usage: python B23CS1037_prob2.py k corpus.txt")
@@ -151,3 +151,6 @@ if __name__ == "__main__":
         print(token)
 
     print(f"Total tokens: {len(tokens)}")
+
+if __name__ == "__main__":
+    main()
